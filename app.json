@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "emoweather",
+    "slug": "emoweather",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "85a640da-eddf-42c2-b289-f437ba5afc5c"
+      }
+    }
+  }
+}

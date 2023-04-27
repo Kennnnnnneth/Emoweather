@@ -1,4 +1,4 @@
-export const myApiKey = '3c304fa5f74889bb8af12f0acb18a0fb'
+export const myApiKey = 'get it from Open Weather API'
 
 export const Hour = [
     "temp",
